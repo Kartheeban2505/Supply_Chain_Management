@@ -23,7 +23,37 @@ Established primary and foreign key relationships.Queried essential metrics such
 
 # Dashboards
 # Home
-![Uploading Screenshot 2025-02-24 213938.png…]()
+![Screenshot 2025-02-24 213938](https://github.com/user-attachments/assets/fad0dc02-5d32-43b5-b7e4-def8a61b83e8)
+# Inventory & Order Management
+![Screenshot 2025-02-24 214024](https://github.com/user-attachments/assets/825d72d5-8a66-4bd8-9e85-731f858ea7b6)
+# Supplier & Logistics Performance
+![Screenshot 2025-02-24 214050](https://github.com/user-attachments/assets/84a750a1-7aec-4866-a4a8-6ea4555a7384)
+# Financial Insights & Profitability
+![Screenshot 2025-02-24 214113](https://github.com/user-attachments/assets/ab31c3b1-370e-4e29-970f-1398264f6de3)
+
+# Things Learned
+**Power BI Features:** Mastered slicers, dynamic filters, and designing interactive dashboards.
+**DAX Skills:** Developed complex measures and calculated columns for better data analysis.
+**Data Visualization Best Practices:** Improved dashboard design for better user experience and decision-making.
+**Business Insights:** Gained experience in interpreting sales, logistics, and profitability data.
+**Supply Chain Optimization:** Learned how data-driven insights can improve supplier selection, inventory levels, and cost efficiency.
+
+# Some important insights from dashboard
+1. **Inventory & Order Management:**
+Total stock level is **4,777**, with an order fulfillment rate of **23%**, indicating inefficiencies.
+Kolkata has the highest stock levels, while certain products show high failure rates in inspections.
+2. **Supplier & Logistics Performance:**
+Average lead time is **15.96 days**, with Supplier 5 having the highest defect rate.
+Chennai has the highest defect rate among supplier locations.
+Road and air transportation have the highest costs compared to rail and sea.
+3. **Financial Insights & Profitability:**
+The total revenue is **₹577.60K**, with a total cost of **₹52.92K**, resulting in a **90.84% profit margin**.
+Supplier 1 generates the highest revenue but has lower profit margins compared to others.
+Cosmetics yield the highest profit margins among product types.
+
+
+
+
 
 
 
