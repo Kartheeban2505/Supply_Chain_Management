@@ -32,11 +32,11 @@ Established primary and foreign key relationships.Queried essential metrics such
 ![Screenshot 2025-02-24 214113](https://github.com/user-attachments/assets/ab31c3b1-370e-4e29-970f-1398264f6de3)
 
 # Things Learned
-**Power BI Features:** Mastered slicers, dynamic filters, and designing interactive dashboards.
-**DAX Skills:** Developed complex measures and calculated columns for better data analysis.
-**Data Visualization Best Practices:** Improved dashboard design for better user experience and decision-making.
-**Business Insights:** Gained experience in interpreting sales, logistics, and profitability data.
-**Supply Chain Optimization:** Learned how data-driven insights can improve supplier selection, inventory levels, and cost efficiency.
+1. **Power BI Features:** Mastered slicers, dynamic filters, and designing interactive dashboards.
+2. **DAX Skills:** Developed complex measures and calculated columns for better data analysis.
+3. **Data Visualization Best Practices:** Improved dashboard design for better user experience and decision-making.
+4. **Business Insights:** Gained experience in interpreting sales, logistics, and profitability data.
+5. **Supply Chain Optimization:** Learned how data-driven insights can improve supplier selection, inventory levels, and cost efficiency.
 
 # Some important insights from dashboard
 1. **Inventory & Order Management:**
