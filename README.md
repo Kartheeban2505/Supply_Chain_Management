@@ -21,6 +21,11 @@ Established primary and foreign key relationships.Queried essential metrics such
 
 6.**Testing and Validation:** Ensured dashboard accuracy by cross-verifying SQL query results. Checked filter functionality and slicer performance. Gathered feedback for improvements and optimizations.
 
+# Dashboards
+# Home
+![Uploading Screenshot 2025-02-24 213938.png…]()
+
+
 
 
 
