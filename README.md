@@ -31,6 +31,9 @@ Established primary and foreign key relationships.Queried essential metrics such
 # Financial Insights & Profitability
 ![Screenshot 2025-02-24 214113](https://github.com/user-attachments/assets/ab31c3b1-370e-4e29-970f-1398264f6de3)
 
+# Data Model
+![Screenshot 2025-02-22 222024](https://github.com/user-attachments/assets/81b9aad8-06df-4ef3-9096-0a1e1a584b44)
+
 # Things Learned
 1. **Power BI Features:** Mastered slicers, dynamic filters, and designing interactive dashboards.
 2. **DAX Skills:** Developed complex measures and calculated columns for better data analysis.
